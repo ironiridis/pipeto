@@ -1,5 +1,4 @@
-pipeto
+bitrot
 ======
 
-
-See https://www.mediawiki.org/wiki/Extension:PipeTo.
+Don't use this extension.
